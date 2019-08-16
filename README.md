@@ -63,3 +63,6 @@ These are the steps you should take in order to create your MVP:
 ## Stretch Problems
 
 1. Create a controller and views to show `AppStats` data on the root route.
+
+
+Inits
