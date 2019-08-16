@@ -22,10 +22,10 @@ You are going to create a rails application called `awesome_blog`. Your job is t
 
 ### Git Set Up
 
-- [ ] Fork the project into your GitHub user account
-- [ ] Clone the forked project into a directory on your machine
-- [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-- [ ] You are now ready to build this project with your preferred IDE
+- [x] Fork the project into your GitHub user account
+- [x] Clone the forked project into a directory on your machine
+- [x] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+- [x] You are now ready to build this project with your preferred IDE
 
 ## Minimum Viable Product
 
@@ -63,3 +63,6 @@ These are the steps you should take in order to create your MVP:
 ## Stretch Problems
 
 1. Create a controller and views to show `AppStats` data on the root route.
+
+
+Inits
